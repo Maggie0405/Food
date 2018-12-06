@@ -1,0 +1,89 @@
+header {
+   text-align: center;
+   background-position: center;
+   background-size: auto;
+   color: red;
+ }
+ body{
+   background: url('./WechatIMG48.jpeg') no-repeat;
+   margin: 10px 100px 10px 100px;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   font-weight: bold;
+ }
+
+ h1.head {
+   font-size: 55px;
+   font-family: cursive;
+
+ }
+ img {
+   margin: 40px 20px 20px 20px;
+   border: 7px solid white;
+   border-radius: 20px;
+ }
+ ul.nav li{
+   padding: 14px;
+   background-color: #f1f1f1;
+   width:160px;
+   margin:0;
+   list-style-type: none;
+   display: inline;
+ }
+
+ li a{
+   font-size: 20px;
+   color:#000;
+   padding: 8px 16px;
+   text-decoration: none;
+   font-family: fantasy;
+ }
+
+ li a:hover{
+   background-color: #555;
+   color: white;
+ }
+
+ ul.drop1 li{
+   display: inline;
+   padding-left: 0px 10px 0px 10px;
+   color: blue;
+   margin: 0px;
+   font-family: sans-serif;
+ }
+ h2.top{
+   text-decoration-style: dashed;
+   text-align: center;
+   color: #ff6600
+ }
+div.container{
+  width:1190px;
+  height:450px;
+  margin: 30px 0px;
+  background-color: #ffffff;
+  overflow: scroll;
+  opacity: 0.8;
+  border-radius: 20px
+}
+div.guandong{
+  width: 1190px;
+  height:30px;
+}
+div.container p{
+  margin: 10px 40px;
+  color: #000000
+}
+
+div.container h2{
+  margin: 30px 40px;
+  color: #000000
+}
+div.contentHead{
+  width:1190px;
+  height:450px;
+  margin: 30px 0px;
+  background-color: #ffffff;
+  overflow: scroll;
+  opacity: 0.8;
+  border-radius: 20px
+}
